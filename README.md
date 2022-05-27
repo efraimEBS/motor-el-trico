@@ -1,2 +1,2 @@
-# motor-el-trico
+# motor-elétrico
 como cria motor elétrico
