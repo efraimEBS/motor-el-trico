@@ -2,13 +2,6 @@
 
 # como cria um motor elétrico usando ima e uma pilha 
 
-# lista de materiais 
-- pilha 
-- 2 alfinete de fralda 
-- cobre esmaltado 
-- imas 
-- elástico de dinheiro 
-
 # passo a passo 
 
 - Cortar o balão em uma tira
